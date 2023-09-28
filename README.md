@@ -30,4 +30,4 @@ If you'd like to contribute to the development of this website or report any iss
 
 Enjoy exploring the incredible world of India through our website!
 
-![India Tourism](ashoka-chakra.png)
+PS: This is a fun little project I made to refresh my knowledge on HTML, CSS and Javascript.
